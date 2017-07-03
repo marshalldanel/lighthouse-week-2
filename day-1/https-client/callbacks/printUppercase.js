@@ -5,7 +5,7 @@ var requestOptions = {
   path: '/http-examples/step6/uppercase.html'
 };
 
-function printUppercase(html) {
+function printUppercase (html) {
   console.log(html.toUpperCase());
 }
 
